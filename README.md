@@ -2,7 +2,7 @@
 
 **Principal Strategic Account Manager at [GitHub](https://github.com/github)**
 
-I run a portfolio of Tier 1 enterprise accounts at GitHub. The work spans deal execution, account intelligence, and helping engineering leaders build the platforms their teams will depend on for the next decade.
+I run a portfolio of enterprise accounts at GitHub. The work spans deal execution, account intelligence, and helping engineering leaders build the platforms their teams will depend on for the next decade.
 
 Based in Felton, CA.
 
