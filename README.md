@@ -10,6 +10,8 @@ Based in Felton, CA.
 
 I build and operate an AI-powered strategic accounts operating system using the GitHub Copilot CLI as the runtime. Account refreshes, QBR prep, deal scoping, communications triage, and exec escalations all flow through a single conversational interface backed by agents, prompts, and integrations with M365, Power BI, and Kusto telemetry.
 
+The whole thing is rooted in a knowledge base I'm building from a decade plus in technology sales and global enterprise account management. The agents are only as good as the playbook behind them.
+
 If you're curious about any of it, ping me.
 
 ### On the side
