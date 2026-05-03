@@ -8,7 +8,7 @@ Based in Felton, CA.
 
 ### What I'm working on
 
-A strategic accounts operating system built on the GitHub Copilot CLI. It handles the daily mechanics of enterprise account management through a conversational interface, with technical depth across the integrations and data sources that account work actually depends on.
+A strategic accounts operating system built on the GitHub Copilot CLI. A growing set of agents handle the daily mechanics of enterprise account management through a conversational interface, orchestrated against integrations spanning enterprise systems and product data.
 
 The system is rooted in a knowledge base I'm building from a decade plus in technology sales and global enterprise account management.
 
