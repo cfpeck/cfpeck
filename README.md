@@ -1,18 +1,17 @@
 Based in Felton, CA.
 
+### About me
+
+I'm a lifelong technology enthusiast. I spent much of my childhood building computers and stitching together software solutions, all without being able to write a single line of code.
+
+That changed in December 2025. The models released by the frontier AI labs broke down the wall for me. I could finally communicate directly with software and hardware systems, and take part in a world I had always watched from the sidelines.
+
 ### What I'm working on
 
-A strategic accounts operating system built on the GitHub Copilot CLI. A growing set of agents handle the daily mechanics of enterprise account management through a conversational interface, orchestrated against integrations and data sources spanning enterprise systems and product telemetry.
-
-The system is rooted in a knowledge base I'm building from a decade plus in technology sales and global enterprise account management.
+These days I spend much of my time building creative solutions and apps that enrich my daily life.
 
 If you're curious, ping me.
-
-### On the side
-
-Running a private Minecraft server for my son, his friends, and me. The shared world is a playground for picking up coding and design fundamentals together: server config, plugins, mods, redstone systems, and building projects we collaborate on. Kids learn faster when they own the world they're building in.
 
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/charlie-peck343/)
-
